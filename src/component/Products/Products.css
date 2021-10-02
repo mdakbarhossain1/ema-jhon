@@ -1,0 +1,24 @@
+.cards{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px;
+    padding: 5px;
+}
+.card-info{
+    margin-left: 10px;
+}
+
+.card-info h2{
+    color: blue;
+    font-weight: 400;
+}
+.cart-btn{
+    padding: 5px 40px;
+    border-radius: 5px;
+    background-color: goldenrod;
+    border: 1px solid lightgray;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+}
